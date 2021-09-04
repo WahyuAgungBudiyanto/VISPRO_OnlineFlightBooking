@@ -1,0 +1,13 @@
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\bin\Debug\QuizProject2.exe.config
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\bin\Debug\QuizProject2.exe
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\bin\Debug\QuizProject2.pdb
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\obj\Debug\QuizProject2.csproj.AssemblyReference.cache
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\obj\Debug\QuizProject2.Form_Register.resources
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\obj\Debug\QuizProject2.Properties.Resources.resources
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\obj\Debug\QuizProject2.csproj.GenerateResource.cache
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\obj\Debug\QuizProject2.csproj.CoreCompileInputs.cache
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\obj\Debug\QuizProject2.exe
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\obj\Debug\QuizProject2.pdb
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\obj\Debug\QuizProject2.Form_Login.resources
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\obj\Debug\QuizProject2.csproj.CopyComplete
+D:\KULIAH\Sem 5\Vispro\QuizProject#2\obj\Debug\QuizProject2.Dashboard.resources
